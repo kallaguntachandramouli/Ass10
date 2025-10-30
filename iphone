@@ -1,0 +1,19 @@
+This an example of Compatibility Testing, specifically Device/Browser Compatibility Testing.
+The user is testing the website on different platforms:
+
+1. Chrome browser (on a desktop/laptop): One environment
+2. iPhone 6 (with its native browser, Safari): Another environment
+
+The defects found on the iPhone 6 indicate that the website is not compatible with the iPhone's browser or device configuration.
+This type of testing ensures that the website works correctly across various:
+
+. Devices (desktops, laptops, mobile devices, tablets)
+. Browsers (Chrome, Firefox, Edge)
+. Operating Systems (Windows, macOS, iOS, Android
+
+compatibility testing is to ensure that the website or application:
+
+.Looks and functions correctly . 
+.Provides a consistent user experience.
+.Works as expected.
+
