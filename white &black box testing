@@ -1,0 +1,24 @@
+1.White Box Testing:
+White box testing is a software testing technique where the tester has knowledge of the internal code, structure, and logic of the software. 
+It involves testing the software's internal workings, such as code paths, logic, and algorithms.
+Key difference:
+1.White box testing: Testing the code from the inside out.
+2.white box testing : Testing performance by Developers.
+4. Focus: Testing the software's internal code, structure, and logic.
+5. Approach: Code-based, where testers analyze the code and its logic.
+6. Testers' knowledge: Knowledge of internal code and structure required.
+7. Testing scope: Unit testing, integration testing, and code review.
+
+
+2.Black Box Testing:
+Black box testing is a software testing technique where the tester has no knowledge of the internal code, structure, or logic of the software. 
+It involves testing the software's functionality, inputs, and outputs without knowing how it works internally.
+key difference:
+1. Black box testing: Testing the software from the outside in, without knowing the internal workings.
+2. Focus: Testing the software's functionality without knowing the internal code or structure.
+3. Approach: Input-output based, where testers provide inputs and observe outputs.
+4. Testers' knowledge: No knowledge of internal code or structure required.
+5. Testing scope: Functional testing, usability testing, and acceptance testing.
+
+
+
