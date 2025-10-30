@@ -1,0 +1,19 @@
+1.Non-Functional Testing:
+Non-functional testing is a type of testing that focuses on aspects of software quality that are not directly related to its functionality.
+1. Performance testing: This type of testing evaluates the software's performance. under various conditions, such as load, stress, and scalability.
+2. Security testing: This type of testing identifies vulnerabilities and weaknesses in the software that could be exploited by attackers.
+3. Usability testing: This type of testing assesses the software's user interface and user experience to ensurethat it is intuitive, easy to use, and meets the needs of its users.
+4. Compatibility testing: This type of testing verifies that the software is compatible with different environments. such as operating systems, browsers, and hardware configurations.
+5. Scalability testing: This type of testing evaluates the software's ability to handle increased traffic, data, or user g
+Eamples:
+1. shopping on an e-commerce website .
+.Fast page loads and responsive product searches .
+. Secure payment processing and protection of your personal data.
+. Easy product discovery and checkout .
+2. online banking application to transfer money to a friend. 
+. Keep your login credentials and transaction details secure .
+. Have a clear and easy-to-use interface that allows you to navigate and complete the transaction.
+3.playing a online game with friends.
+. Smooth gameplay with minimal lag or frame rate drops.
+. Instantaneous response to your controller inputs, allowing for precise gameplay.
+. The game to handle a large number of players in the same match without significant performance issues .
