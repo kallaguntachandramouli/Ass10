@@ -1,0 +1,15 @@
+.Accessibility testing:
+Accessibility testing is the process of evaluating a website, application, or system to ensure that it can be used by people with disabilities.
+including those with visual, auditory, motor, or cognitive disabilities.
+.Verifying that the software is usable by individuals with disabilities, adhering to accessibility standards. 
+
+.Importance Key Points:
+1. Equal access: Ensures that people with disabilities can access and use the system.
+2. Compliance: Meets accessibility standards and regulations ( WCAG ).(Web Contet Acessibity Guide Lines).
+3. Broader audience: Increases the system's reach and usability for a wider audience.
+4. Improved user experience: Enhances the overall user experience for all users.
+5. Social responsibility: Demonstrates a commitment to inclusivity and social responsibility.
+6.. Perceivability: Ensure content is perceivable by all users ( image alt text, closed captions).
+7.. Operability: Ensure interface can be operated by all users ( keyboard navigation, voice commands).
+8. Understandability: Ensure content and interface are understandable by all users ( clear language, consistent navigation).
+9.. Robustness: Ensure system robustness and compatibility with assistive technologies ( screen readers).
