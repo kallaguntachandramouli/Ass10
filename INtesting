@@ -1,0 +1,10 @@
+1. Integration testing:
+.The process of testing how different modules or components work together after they have been unit tested. 
+.Testers is  done
+.To verify that data flows correctly between modules and that their interaction is seamless. 
+key point:
+1. Verifies interactions: Ensures that individual components or modules work together seamlessly.
+2. Detects integration defects: Identifies defects and errors that arise when components interact.
+3. Ensures system stability: Verifies that the integrated system is stable and functions as expected.
+4. Reduces downstream defects: Catches integration issues early, reducing the likelihood of downstream defects.
+5. Improves overall quality: Enhances the overall quality and reliability of the system.
